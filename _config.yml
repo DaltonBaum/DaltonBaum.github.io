@@ -15,7 +15,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Resume: "file:///C:/Users/Reaper/Downloads/Resume%202018.pdf"
+    - Resume: "https://docs.google.com/document/d/1ZERaWxHnt8OO38O-ZP7qwAJ9ktQhIRmO7N0G-Wx8Ouk/edit?usp=sharing"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
