@@ -9,5 +9,5 @@ subtitle: What I'm Seeking
 - I am currently a freshman at Colorado School of Mines
 - I am pursuing a Computer Engineering Degree in order to become a cybersecurity professional.
 - I am familiar with a few programming languages like Python, Java, Javascript, and C.
-- My goal is to learn as much as I can about computer systems.
+- My goal is to gain knowledge of computer systems in order to provide citizens with private alternatives to public services.
 - I am interested in topics regarding privacy and security.
