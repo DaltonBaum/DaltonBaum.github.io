@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: What I'm Seeking
 ---
 
 **My name is Dalton Baum:**
