@@ -1,6 +1,6 @@
 ---
 layout: home
 title: Dalton Baum
-subtitle: "Aspiring Cybersecurity Engineer"
+subtitle: "Aspiring Cybersecurity Engineer/Researcher"
 ---
 
