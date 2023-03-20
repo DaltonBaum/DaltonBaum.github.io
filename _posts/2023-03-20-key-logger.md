@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Keylogger Script with Email Support
 subtitle: The Data Transfer Problem
 thumbnail-img: /assets/img/What-is-Binary-Coding-Rendered-size-948x500-1.jpg
