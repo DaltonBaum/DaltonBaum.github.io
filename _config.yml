@@ -114,10 +114,10 @@ page-img: "/assets/img/background.jpg"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-YD78NXS7FT"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "G-YD78NXS7FT"
+#google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
