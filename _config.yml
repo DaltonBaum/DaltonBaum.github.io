@@ -118,7 +118,7 @@ page-img: "/assets/img/icy_lake.jpg"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "G-YD78NXS7FT"
 
 # Google Tag Manager ID
 #gtm: ""
