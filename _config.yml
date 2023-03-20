@@ -13,10 +13,8 @@ author: Dalton Baum
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Resume:
     - Resume: "https://docs.google.com/document/d/1ZERaWxHnt8OO38O-ZP7qwAJ9ktQhIRmO7N0G-Wx8Ouk/edit?usp=sharing"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -103,7 +101,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/icy_lake.jpg"
+page-img: "/assets/img/foot_bridge.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
