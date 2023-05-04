@@ -11,10 +11,6 @@ Below is my capstone project for my Python Sensor Systems Class at The Colorado 
 ![Schematic](/assets/img/schematic.jpg)
 
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
-<a href="/donate">DONATE</a>
-</div>
-
 
 ```python
 #!/usr/bin/env python
