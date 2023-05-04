@@ -3,6 +3,7 @@ layout: post
 title: Security System via Raspberry Pi
 subtitle: CSCI 250 Capstone
 thumbnail-img: /assets/img/cam.jpg
+page-img: /assets/img/white.jpg
 tags: [Projects]
 ---
 
