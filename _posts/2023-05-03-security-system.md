@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homemade Security System via Raspberry Pi
+title: Security System via Raspberry Pi
 subtitle: CSCI 250 Capstone
 thumbnail-img: /assets/img/cam.jpg
 tags: [Projects]
