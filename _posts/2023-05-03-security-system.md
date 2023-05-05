@@ -12,7 +12,7 @@ Below is my capstone project for my Python Sensor Systems Class at The Colorado 
 ![Schematic](/assets/img/schematic.jpg)
     
     
-Source Code: [Security-System.py](https://github.com/DaltonBaum/Pi-Security-System)
+Source Code on Github: [Security-System-SRC](https://github.com/DaltonBaum/Pi-Security-System)
 ```python
 #!/usr/bin/env python
 
