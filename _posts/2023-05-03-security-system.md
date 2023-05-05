@@ -12,7 +12,7 @@ Below is my capstone project for my Python Sensor Systems Class at The Colorado 
 ![Schematic](/assets/img/schematic.jpg)
 
 
-
+<span style="color: white;">
 ```python
 #!/usr/bin/env python
 
@@ -115,10 +115,5 @@ finally:
     print("Done!")
     GPIO.cleanup() # close GPIO
 
-
-
-
-
-
-
 ```
+</span>
