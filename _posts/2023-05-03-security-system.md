@@ -14,7 +14,7 @@ Below is my capstone project for my Python Sensor Systems Class at The Colorado 
 
 <div style="background-color: rgb(50, 50, 50);">
     
-``python
+```python
 #!/usr/bin/env python
 
 # setup and import
@@ -115,6 +115,5 @@ except(KeyboardInterrupt, SystemExit):
 finally:
     print("Done!")
     GPIO.cleanup() # close GPIO
-
 ``
                                                        </div>
