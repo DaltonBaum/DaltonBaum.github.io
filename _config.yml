@@ -105,7 +105,7 @@ footer-link-col: "#404040"
 class: title-slide center middle
 
 
-background-img: "/assets/img/dark-wallpaper.jpg"
+background-img: "/assets/img/dark-wallpaper.png"
 background-size: cover;
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
