@@ -109,8 +109,8 @@ page-img: "/assets/img/dark-wallpaper2.png"
 #mobile-theme-col: "#0085A1"
 
 # For any extra customization, you can include additional CSS files in every page on your site
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/main.css"
 
 # --- Web Statistics Section --- #
 
