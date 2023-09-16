@@ -11,4 +11,3 @@ title: About me
 - My goal is to gain knowledge of computer systems in order to provide citizens with private alternatives to public services.
 - I am interested in topics regarding privacy and security.
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f20069fa-413b-47f0-a080-551f49f3d8b3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
