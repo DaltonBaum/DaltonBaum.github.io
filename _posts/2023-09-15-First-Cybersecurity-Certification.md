@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Received my First Cybersecurity Certification
+title: Received my First Cybersecurity Certification
 subtitle: GIAC Foundational Cybersecurity Technologies (GFACT)
 thumbnail-img: /assets/img/cert.png
 page-img: /assets/img/white.jpg
